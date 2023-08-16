@@ -1,0 +1,14 @@
+.codelite
+bin
+libs
+res/textures
+src/vendor
+src/test
+src/Notes.txt
+CMakeFiles
+CMakeCache.txt
+Makefile
+imgui.ini
+hello_world.project
+hello_world.workspace
+hello_world
